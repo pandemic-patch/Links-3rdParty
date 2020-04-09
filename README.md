@@ -8,8 +8,11 @@
 
 
 ## Possible Integrations
-1. MetaKnyts: https://medium.com/@dele_37364/metai-knights-media-unveils-metaknyts-worlds-first-collector-crypto-comic-de98ee0b8e09
-2. MetaMe.com: https://metame.com/
+1. MetaKnyts (Comic Series): https://medium.com/@dele_37364/metai-knights-media-unveils-metaknyts-worlds-first-collector-crypto-comic-de98ee0b8e09
+2. MetaMe.com (Data Privacy): https://metame.com/
+3. LinkedIn's Iris (Support Paging): https://github.com/pushingbhutons/iris
+4. Video, Chat, Call (Social Engagment): https://github.com/pir8aye/jitsi-meet
+5. Google Maps (location): https://www.google.com/maps
 
 
 ## Developers Links for COVIDathon Sponsors
