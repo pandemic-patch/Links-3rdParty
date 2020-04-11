@@ -13,6 +13,7 @@
 3. LinkedIn's Iris (Support Paging): https://github.com/pushingbhutons/iris
 4. Video, Chat, Call (Social Engagment): https://github.com/pir8aye/jitsi-meet
 5. Google Maps (location): https://www.google.com/maps
+6. Google + Apple (Contact Tracing): https://www.apple.com/covid19/contacttracing/
 
 
 ## Developers Links for COVIDathon Sponsors
@@ -40,3 +41,8 @@ An ecosystem for the data economy and associated services, with a tokenized serv
 OpenMined is dedicated to lowering the barrier-to-entry to private AI technologies through open-source code and free education.
 
 
+## CoVID Medical & Privacy Resources 
+1. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+2. https://askco19.com
+3. https://globalprivacyassembly.org/covid19/
+4. https://coronavirustechhandbook.com/self-reporting
