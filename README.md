@@ -14,6 +14,7 @@
 4. Video, Chat, Call (Social Engagment): https://github.com/pir8aye/jitsi-meet
 5. Google Maps (location): https://www.google.com/maps
 6. Google + Apple (Contact Tracing): https://www.apple.com/covid19/contacttracing/
+7. Veridas (data privacy): https://medium.com/@verida/were-building-a-framework-to-give-users-control-of-their-data-7fbd223dc089
 
 
 ## Developers Links for COVIDathon Sponsors
