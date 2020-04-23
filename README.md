@@ -15,6 +15,8 @@
 5. Google Maps (location): https://www.google.com/maps
 6. Google + Apple (Contact Tracing): https://www.apple.com/covid19/contacttracing/
 7. Veridas (data privacy): https://medium.com/@verida/were-building-a-framework-to-give-users-control-of-their-data-7fbd223dc089
+8. Pandemic (contact modeling): https://www.linkedin.com/pulse/dear-new-zealand-heres-how-simulate-covid-19-all-your-cotton-phd/
+9. Google's 1 Billion Words (NLP): https://github.com/pandemic-patch/1-billion-word-language-modeling-benchmark 
 
 
 ## Developers Links for COVIDathon Sponsors
